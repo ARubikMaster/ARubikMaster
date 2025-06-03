@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ARubikMaster
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python Modules & Machine Learning
-- 😄 Pronouns: He/Him
+# Hey there!
+
+I am ARubikMaster, aka epicCoolDog, and I am a hoobyist amateur developper of python, golang, and web frontend.
+
+My website: https://epiccooldog.is-a.dev/
