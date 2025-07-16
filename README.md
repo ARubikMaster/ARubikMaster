@@ -1,6 +1,6 @@
 # Hey there!
 
-I am rubikmaster, formerly known as epicCoolDog
+I am epicCoolDog
 
 I program in 👉
  - Python
